@@ -1,4 +1,4 @@
-package Collections;
+package Collections.LinkedList;
 
 /**
  * Lecture 5: Node Based Lists
