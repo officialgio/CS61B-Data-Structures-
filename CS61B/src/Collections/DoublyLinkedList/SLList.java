@@ -7,6 +7,7 @@ package Collections.DoublyLinkedList;
  */
 
 public class SLList<LochNess> {
+    // Representation of each box or node.
     private class StuffNode {
         public LochNess item;
         public StuffNode next;
